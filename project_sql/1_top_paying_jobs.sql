@@ -5,7 +5,6 @@ This query is to find the top paying data scientist jobs
 -Highlights the best oppurtunities
 */
 
-
 SELECT
     job_id,
     job_title,
