@@ -25,6 +25,6 @@ Based on:
 - **Git & GitHub:** Project tracking, and sharing SQL scripts and analysis.
 
 # Analysis
-![Top paying roles](assets\Analysis.png)
+![Top paying roles](assets/Analysis.png)
 *Bar graph visualizing the yearly salary for the top 10 in $*
 
