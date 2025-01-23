@@ -26,5 +26,5 @@ Based on:
 
 # Analysis
 ![Top paying roles](assets/Analysis.png)
-*Bar graph visualizing the yearly salary for the top 10 in $*
+*Bar graph visualizing the yearly salary for the Top 10 in $*
 
